@@ -8,7 +8,7 @@
 It is A 555 LED chaser board — a classic beginner PCB project.
 
 ## Why I built this project ?
-So this is one of the starter project in the stasis website, so when you went to this guide, I feel like that I want to make something without the SMD components only using the components that can be hand shoulder, so I went with this project and I learn a lot of things about the KiCad ,etc.
+So this is one of the starter project in the stasis website, so when you went to this guide, I feel like that I want to make something without the SMD components only using the components that can be hand solder , so I went with this project and I learn a lot of things about the KiCad ,etc.
 
 <div align="center">
 
