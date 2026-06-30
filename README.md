@@ -54,4 +54,6 @@ So this is one of the starter project in the stasis website, so when you went to
 | Blinky Board Kit | Shipped to you - kit project | 1 | $10.00 | - | Hack Club |
 | PCB (moq 5) | The Main Board | 5 | $4.00 | [Link](https://jlcpcb.com/) | JLCPCB |
 | Shipping PCB	| E- Post (Cheapest) | 	- |	$9.81	| — | 	JLCPCB |
-| Total |    |     |   $13.81    |   |    |   |
+| Total |    |     |   $23.81    |   |    |   |
+
+**Project Under Hack Club**
