@@ -56,4 +56,6 @@ So this is one of the starter project in the stasis website, so when you went to
 | Shipping PCB	| E- Post (Cheapest) | 	- |	$9.81	| — | 	JLCPCB |
 | Total |    |     |   $23.81    |   |    |   |
 
+For this Project I only need the grant of $14 for the PCB and for the other parts it will provided by Hack Club ( Blinky Board Kit) as it is already selected .
+
 **Project Under Hack Club**
